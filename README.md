@@ -1,7 +1,7 @@
 # Communication-Efficient Laplace Mechanism for Differential Privacy via Random Quantization
 
 This repository contains the implementation of the *dyadic quantized Laplace(DQL)* mechanism introduced in the following paper:
-- Ali Moradi Shahmiri, Chih Wei Ling, and Cheuk Ting Li, “Communication-efficient Laplace mechanism for differential privacy via random quantization,” arXiv pre-print, 2023.
+- Ali Moradi Shahmiri, Chih Wei Ling, and Cheuk Ting Li, “[Communication-efficient Laplace mechanism for differential privacy via random quantization](https://arxiv.org/abs/2309.06982)”, arXiv pre-print, 2023.
 
 The encoding and decoding algorithms are implemented in the `DQLMechanism` class in `privacy.py` and the auxiliary functions used by the mechanism are in `dql_utils.py`.
 
